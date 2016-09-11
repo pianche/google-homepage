@@ -1,0 +1,121 @@
+
+
+#header {
+height: 50px;
+
+ 
+}
+
+#wrapper {
+  display: block;
+  margin: 0 auto;
+  padding-top: 25px;
+
+}
+
+
+.nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+  display: inline-block;
+  
+}
+
+.nav2 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: left;
+  display: inline-block;
+  
+}
+
+#footer ul li a {
+  color: #666;
+}
+
+li {
+display: inline-block;
+  font-family: arial;
+  font-size: 13px;
+ 
+}
+
+li a {
+  display: inline-block;
+    text-align: center;
+    padding: 14px 12px;
+   color: #000;
+    text-decoration: none;
+}
+
+#body {
+
+  margin: 0px;
+  padding: 0px;
+}
+
+.google-image {
+ display: block;
+  margin: 0 auto;
+  padding-top: 12%;
+}
+
+form {
+ display: block;
+  margin: 0 auto;
+  padding-top: 25px;
+ 
+}
+
+input {
+ display: block;
+  margin: 0 auto;
+  padding-top: 25px;
+  width: 600px;
+
+}
+
+#footer {
+   position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0rem;
+  background-color: #f2f2f2;
+  text-align: right;
+  border: 1px solid #e4e4e4;
+
+  
+  
+}
+
+.buttons input {
+  width: 170px;
+  margin-top: 20px;
+  margin-left: 15px;
+  padding: 12px;
+  display: inline-block;
+  background-color: #f2f2f2;
+  border: none;
+  color: #757575;
+ font-size: 13px;
+  font-weight: bold;
+  text-algin: center;
+   
+  
+}
+
+.buttons {
+margin: 0 auto;
+  padding: 0px;
+  display: block;
+  max-width: 400px;
+
+
+ 
+}
